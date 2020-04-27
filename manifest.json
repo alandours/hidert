@@ -3,7 +3,7 @@
   "manifest_version": 2,
   "name": "HideRT",
   "description": "Show and hide retweets from Twitter timeline.",
-  "version": "1.0",
+  "version": "1.1",
 
   "permissions": [
     "activeTab",
